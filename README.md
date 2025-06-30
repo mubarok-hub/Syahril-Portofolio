@@ -6,9 +6,9 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 
 ## 🛠️ Skill
 - **Frontend:** HTML, CSS
-- **Backend:** PHP, Laravel (dasar)
+- **Backend:** PHP, Laravel
 - **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Tools:** GitHub, VS Code
 - **Office:** Microsoft Office (Bersertifikat)
 
 ---
@@ -16,10 +16,10 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 ## 📂 Proyek & Latihan
 > Beberapa project latihan yang saya buat selama belajar coding:
 
-- 🔹 Sistem CRUD sederhana menggunakan Laravel
-- 🔹 Halaman landing page HTML & CSS
+- 🔹 Sistem CRUD menggunakan Laravel
+- 🔹 Halaman landing page HTML & CSS boostrap
 - 🔹 Form validasi PHP
-- 🔹 Latihan autentikasi login/register dasar
+- 🔹 Latihan autentikasi login/register
 
 > Lihat semua proyek saya di GitHub: [github.com/mubarok-hub](https://github.com/mubarok-hub)
 
@@ -31,8 +31,8 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 ---
 
 ## 📬 Kontak
-- **📧 Email:** [email kamu bro]
-- **📱 WhatsApp:** [no WA kamu, misal: +62xxxx]
+- **📧 Email:** [emberyboy28@gmail.com]
+- **📱 WhatsApp:** [083877771267]
 - **🐱 GitHub:** [github.com/mubarok-hub](https://github.com/mubarok-hub)
 
 ---
