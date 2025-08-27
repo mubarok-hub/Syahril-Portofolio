@@ -6,7 +6,7 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 
 ## 🛠️ Skill
 - **Frontend:** HTML, CSS
-- **Backend:** PHP, Laravel, javascript
+- **Backend:** PHP, Laravel, Javascript
 - **Database:** MySQL
 - **Tools:** GitHub, VS Code
 - **Office:** Microsoft Office (Bersertifikat)
@@ -16,10 +16,15 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 ## 📂 Projects
 Beberapa project latihan & portfolio saya:
 
-- 🔹 [Sistem CRUD Laravel](https://github.com/mubarok-hub/sistem_crud) – CRUD sederhana dengan Laravel & MySQL  
-- 🔹 [Landing Page](https://github.com/mubarok-hub/landing-page) – Website statis dengan HTML, CSS, Bootstrap  
-- 🔹 [Form Validasi PHP](https://github.com/mubarok-hub/form-validasi) – Validasi form dengan PHP Native  
-- 🔹 [Login & Register Auth](https://github.com/mubarok-hub/login-register) – Sistem autentikasi dasar  
+- 🔹 [Web Cafe Tetesloca](https://github.com/mubarok-hub/web_cafe_tetesloca) – Website cafe modern  
+- 🔹 [Undangan Pernikahan Online](https://github.com/mubarok-hub/Undangan_pernikahan_online) – Web undangan digital yang mudah dibagikan ke kerabat  
+- 🔹 [Sistem Stock Toko Material](https://github.com/mubarok-hub/Sistem_stock_toko_matrial) – Sistem stok barang, kasir, dengan autentikasi user  
+- 🔹 [Sistem Sekolah](https://github.com/mubarok-hub/Sistem_sekolah) – Sistem manajemen sekolah dengan beberapa role:
+  - **Murid**: absensi, PR mingguan, ekstrakurikuler  
+  - **Wali Murid**: memantau aktivitas anak, PR, pembayaran bulanan  
+  - **Guru**: memberikan tugas, rekap nilai murid  
+  - **TU**: menangani pembayaran murid  
+  - **Kepala Sekolah**: instruksi event, informasi murid bermasalah, penerimaan murid baru
 
 👉 Lihat semua project saya di: [github.com/mubarok-hub](https://github.com/mubarok-hub)
 
@@ -31,11 +36,11 @@ Beberapa project latihan & portfolio saya:
 ---
 
 ## 📬 Kontak
-- **📧 Email:** [ridjzal24@gmail.com]
-- **📱 WhatsApp:** [083877771267]
-- **🐱 GitHub:** [github.com/mubarok-hub](https://github.com/mubarok-hub)
+- 📧 **Email:** ridjzal24@gmail.com  
+- 📱 **WhatsApp:** 083877771267  
+- 🐱 **GitHub:** [mubarok-hub](https://github.com/mubarok-hub)  
 
 ---
 
-Terima kasih telah mengunjungi portofolio saya 🙌  
-Saya terbuka untuk kolaborasi atau peluang kerja freelance maupun remote.
+🙏 Terima kasih telah mengunjungi portofolio saya!  
+Saya terbuka untuk **kolaborasi, freelance, maupun peluang kerja remote**. 🚀
