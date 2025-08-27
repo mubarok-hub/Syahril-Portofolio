@@ -13,15 +13,15 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 
 ---
 
-## 📂 Proyek & Latihan
-> Beberapa project latihan yang saya buat selama belajar coding:
+## 📂 Projects
+Beberapa project latihan & portfolio saya:
 
-- 🔹 Sistem CRUD menggunakan Laravel
-- 🔹 Halaman landing page HTML & CSS boostrap
-- 🔹 Form validasi PHP
-- 🔹 Latihan autentikasi login/register
+- 🔹 [Sistem CRUD Laravel](https://github.com/mubarok-hub/sistem_crud) – CRUD sederhana dengan Laravel & MySQL  
+- 🔹 [Landing Page](https://github.com/mubarok-hub/landing-page) – Website statis dengan HTML, CSS, Bootstrap  
+- 🔹 [Form Validasi PHP](https://github.com/mubarok-hub/form-validasi) – Validasi form dengan PHP Native  
+- 🔹 [Login & Register Auth](https://github.com/mubarok-hub/login-register) – Sistem autentikasi dasar  
 
-> Lihat semua proyek saya di GitHub: [github.com/mubarok-hub](https://github.com/mubarok-hub)
+👉 Lihat semua project saya di: [github.com/mubarok-hub](https://github.com/mubarok-hub)
 
 ---
 
