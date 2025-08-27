@@ -6,7 +6,7 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 
 ## 🛠️ Skill
 - **Frontend:** HTML, CSS
-- **Backend:** PHP, Laravel
+- **Backend:** PHP, Laravel, javascript
 - **Database:** MySQL
 - **Tools:** GitHub, VS Code
 - **Office:** Microsoft Office (Bersertifikat)
@@ -31,7 +31,7 @@ Halo! Saya Syahril Mubarok, seorang Fullstack Developer yang fokus di pengembang
 ---
 
 ## 📬 Kontak
-- **📧 Email:** [emberyboy28@gmail.com]
+- **📧 Email:** [ridjzal24@gmail.com]
 - **📱 WhatsApp:** [083877771267]
 - **🐱 GitHub:** [github.com/mubarok-hub](https://github.com/mubarok-hub)
 
